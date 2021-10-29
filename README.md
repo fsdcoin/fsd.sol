@@ -1,2 +1,0 @@
-# fsd.sol
-fsd.sol
